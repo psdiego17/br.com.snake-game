@@ -1,0 +1,14 @@
+@charset "utf-8";
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#div-principal h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: fantasy;
+}
